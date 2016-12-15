@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BazaModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Czlowiek">
+    <Key>
+      <PropertyRef Name="Id_C" />
+    </Key>
+    <Property Name="Id_C" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="imie" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="wiek" Type="Int32" Nullable="false" />
+    <Property Name="wzrost" Type="Double" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BazaEntities1" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Czlowiek" EntityType="Self.Czlowiek" />
+  </EntityContainer>
+</Schema>

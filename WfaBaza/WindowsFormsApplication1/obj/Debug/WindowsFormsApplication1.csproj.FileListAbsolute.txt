@@ -1,0 +1,24 @@
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.oknaEdycji.resources
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\EntityFramework.dll
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\EntityFramework.xml
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.oknaEdycji.resources
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\grzesiek\Desktop\Zajecia .net\WfaBaza\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

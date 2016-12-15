@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BazaModelStoreContainer" CdmEntityContainer="BazaEntities1">
+    <EntitySetMapping Name="Czlowiek">
+      <EntityTypeMapping TypeName="BazaModel.Czlowiek">
+        <MappingFragment StoreEntitySet="Czlowiek">
+          <ScalarProperty Name="Id_C" ColumnName="Id_C" />
+          <ScalarProperty Name="imie" ColumnName="imie" />
+          <ScalarProperty Name="wiek" ColumnName="wiek" />
+          <ScalarProperty Name="wzrost" ColumnName="wzrost" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
